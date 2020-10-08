@@ -1,0 +1,15 @@
+artifact_uri: file:///home/yasin/AIDA/Twitter/twitter-disaster/yasin/mlruns/0/11c245f23e0a48ada651132f6b528224/artifacts
+end_time: 1602162832793
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 11c245f23e0a48ada651132f6b528224
+run_uuid: 11c245f23e0a48ada651132f6b528224
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1602162832537
+status: 3
+tags: []
+user_id: yasin

@@ -2,7 +2,7 @@ artifact_uri: file:///home/yasin/AIDA/Twitter/twitter-disaster/yasin/mlruns/0/81
 end_time: 1602078612073
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 name: ''
 run_id: 8115907dae0f4b888cffa22741fc6c5b
 run_uuid: 8115907dae0f4b888cffa22741fc6c5b
