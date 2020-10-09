@@ -1,0 +1,4 @@
+artifact_location: file:///home/yasin/Projects/AIDA/twitter-disaster/yasin/mlruns/1
+experiment_id: '1'
+lifecycle_stage: active
+name: Clean data
